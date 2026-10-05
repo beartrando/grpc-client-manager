@@ -1,0 +1,3 @@
+allowBuilds:
+  "@shared/logger@git+https://github.com/beartrando/logger.git": true
+  protobufjs: true

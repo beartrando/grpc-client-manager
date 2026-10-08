@@ -1,7 +1,7 @@
 {
   "name": "@shared/grpc-client-manager",
   "version": "1.0.0",
-  "description": "Lenvora shared gRPC client manager",
+  "description": "Shared gRPC client manager",
   "main": "dist/index.js",
   "types": "dist/index.d.ts",
   "repository": {
